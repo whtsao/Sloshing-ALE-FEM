@@ -27,16 +27,13 @@ File name and Context:
 3. bvp_quadrilateral:
 
     Solve the mixed-type BVP with quadrilateral elements.
-   
-To solve the sloshing problem, please use the following code.
 
+4. sloshing_quadrilateral
 
-2. sloshing_ALE_7: (NOT DONE YET)
-
-    a. Change the element from triangle element to quadrilateral element.
+    Solve sloshing problem with quadrilateral elements.
     
-    
+Verifications:
         
-    c. Standing wave: FEM (wav_std.dat attached) vs analytical solution.
+1. Standing wave: ALE-FEM vs analytical solution.
     
-    d. Sloshing wave: FEM vs BEM vs experimental measurement (wav_fem.dat, wav_bem.dat, wav_exp.dat attached).
+2. Sloshing wave: ALE-FEM vs EL-BEM vs experimental measurement.
