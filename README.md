@@ -16,7 +16,11 @@ File name and Context:
 
 1. bvp_triangular:
 
-    Solve the mixed-type BVP with triangular elements. The potential of a standing wave is given on the free surface (Dirichlet type) and zero normal derivatves of potential is given on the wetted walls (Neumann type).
+    a. Solve the mixed-type BVP with triangular elements.
+    
+    b. The potential of a standing wave is given on the free surface (Dirichlet type).
+    
+    c. Zero normal derivatves of potential is given on the wetted walls (Neumann type).
 
 2. sloshing_triangular:
 
