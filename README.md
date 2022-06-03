@@ -35,6 +35,10 @@ File name and Context:
 4. sloshing_quadrilateral
 
     Solve sloshing problem with quadrilateral elements.
+
+5. wavemaker_quadrilateral
+
+    Solve free-surface deformation with movable walls.
     
 Verifications:
         
