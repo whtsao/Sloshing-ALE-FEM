@@ -7,7 +7,7 @@ Numerical description:
 1. mesh type: a) even grid, b) cosine grid, c) nonlinear based on power rule.
 2. nodal velocity: a) average method, b) Galerkin method.
 3. reference frame: a) Eulerian-Lagrangian, b) arbitrary Eulerian-Lagrangian.
-4. time integration: a) first-order explicit, b) second-order AB2, c) 4th-order Runge-Kutta method.
+4. time integration: a) first-order explicit, b) second-order AB2, c) 4th-order Runge-Kutta method, d) 2nd-order Taylor series expansion.
 5. free surface smoothing: a) cubic spline smoothing for RK4.
 6. examples: a) standing wave, b) sloshing wave, c) wave propagation by wavemaker.
 7. element type: a) 3-node triangle cell, b) 4-node quadrilateral cell.
